@@ -52,7 +52,23 @@
       <recent name="D:\juaracoding\java\sqa-enam\RioTamaraPostTestDuaEmpat\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.RunnerTest (1)">
+    <configuration name="RunnerTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PostTestDuaEmpat.StepByStep.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PostTestDuaEmpat.StepByStep" />
+      <option name="MAIN_CLASS_NAME" value="PostTestDuaEmpat.StepByStep.RunnerTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RunnerTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="RioTamaraPostTestDuaEmpat" />
       <extension name="coverage">
@@ -72,6 +88,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.RunnerTest (1)" />
         <item itemvalue="TestNG.RunnerTest" />
       </list>
     </recent_temporary>
